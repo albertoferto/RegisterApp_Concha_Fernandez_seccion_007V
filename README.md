@@ -1,4 +1,4 @@
-# RegisterApp_Concha_Fernandez_seccion_007V
+# Instalacion de las aplicaciones
 
 Abrir la terminal 
 Instalaremos Ionic Storage:
